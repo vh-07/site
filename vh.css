@@ -1,0 +1,33 @@
+header.major h2 {
+    color: #00ffbbf0;
+}
+
+#header {
+    background: chartreuse;
+    background: aqua;
+}
+.image.avatar img {
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqejaoLmFIrFdZF0oOGaRuxB5Tcm5wItoOA&s");
+}
+
+section {
+    border-top: solid 6px #40910e;
+}
+.image img {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqejaoLmFIrFdZF0oOGaRuxB5Tcm5wItoOA&s");
+}
+
+ul.feature-icons li:before {
+background-color:aqua;
+}
+
+nav ul li a.active {
+color: rgb(255, 0, 208) !important;
+}
+
+.button.primary {
+    background-color: #241e9e;
+}
+h1, h2, h3, h4, h5, h6 {
+color: #b2f612;
+}
